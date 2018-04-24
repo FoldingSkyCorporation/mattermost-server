@@ -2447,6 +2447,10 @@
     "translation": "You do not have the appropriate permissions"
   },
   {
+    "id": "api.team.update_team_scheme.license.error",
+    "translation": "License does not support updating a team's scheme"
+  },
+  {
     "id": "api.templates.channel_name.group",
     "translation": "Group Message"
   },
